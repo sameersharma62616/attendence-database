@@ -1,0 +1,14 @@
+/* Add your styles here */
+.attendance-entry {
+    margin-bottom: 10px;
+}
+
+
+/* Add your styles here */
+.attendance-table td {
+    padding: 5px; /* Adjust the padding as needed */
+}
+
+.editable-cell:focus {
+    outline: none; /* Remove outline when cell is focused */
+}
